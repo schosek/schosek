@@ -42,6 +42,7 @@ Estudante de Análise e Desenvolvimento de Sistemas no IFSC (campus São José),
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=schosek&repo=minhas-redes-sociais&theme=tokyonight&hide_border=true" />
   </a>
 </p>
+</p>
 
 ---
 
