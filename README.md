@@ -18,7 +18,6 @@ Estudante de Análise e Desenvolvimento de Sistemas no IFSC (campus São José),
   <img src="https://skillicons.dev/icons?i=js,java,git,github,vscode,idea,mysql" />
 </p>
 
-
 ---
 
 ### Estatísticas
@@ -31,6 +30,7 @@ Estudante de Análise e Desenvolvimento de Sistemas no IFSC (campus São José),
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=schosek&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
 
 ### Alguns projetos
