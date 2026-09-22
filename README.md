@@ -1,4 +1,4 @@
-<h1 align="center">Guilherme Schosek</h1>
+<h1 align="center">Guilherme Schosek da Silva</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+no+IFSC;Focado+em+back-end" alt="Typing SVG" />
@@ -25,8 +25,8 @@ Estou sempre com algum projeto em andamento, seja da faculdade ou por conta pró
 ### Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=guilherme-schosek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-schosek&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=schosek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schosek&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
