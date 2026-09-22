@@ -10,8 +10,6 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas no IFSC (campus São José), complementando os estudos pela Alura. Tenho me dedicado principalmente ao back-end, entendendo como as coisas funcionam por trás de uma aplicação.
 
-Estou sempre com algum projeto em andamento, seja da faculdade ou por conta própria, pra colocar em prática o que vou aprendendo.
-
 ---
 
 ### Tecnologias que uso
@@ -30,7 +28,7 @@ Estou sempre com algum projeto em andamento, seja da faculdade ou por conta pró
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilherme-schosek&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=schosek&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
