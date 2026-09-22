@@ -18,6 +18,7 @@ Estudante de Análise e Desenvolvimento de Sistemas no IFSC (campus São José),
   <img src="https://skillicons.dev/icons?i=js,java,git,github,vscode,idea,mysql" />
 </p>
 
+
 ---
 
 ### Estatísticas
